@@ -1,0 +1,11 @@
+{
+    "name": "Budget tracker app",
+    "short_name": "Budgeter",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that will allow you to be able to add expenses and deposits to their budget with or without a connection.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+}
