@@ -60,7 +60,9 @@ function checkDatabase() {
 
         // clear all items in your store
         store.clear();
-      });
+      })
+  }}
+};
 let budgetVersion;
 
 // Create a new db request for a "budget" database.
